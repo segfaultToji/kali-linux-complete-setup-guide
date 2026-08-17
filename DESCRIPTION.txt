@@ -1,0 +1,1 @@
+Complete guide for setting up Kali Linux across VirtualBox, dual boot, Termux, and NetHunter, with configuration, troubleshooting, security tools, and post-installation setup.
